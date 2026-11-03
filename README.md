@@ -3,7 +3,6 @@
 ## 🎮 [点击这里打开游戏](https://siguiwu.github.io/next-stop-you/)
 
 游戏网址：**https://siguiwu.github.io/next-stop-you/**  
-进入密码：**021119**
 
 打开上面的网页即可游玩，不需要下载代码或 ZIP。登录入口仅用于游戏进入操作，公开仓库中的源码与素材仍可直接访问。
 
